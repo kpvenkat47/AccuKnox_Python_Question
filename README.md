@@ -1,6 +1,6 @@
 <h7> APPLICATION REQUIRED <h7>
 <li> Python3, 
-<li>collections,os modules we used
+<li>collections,os modules are used
 <p> please find attached sample file use it(sample.csv) 
 or Create csv file that have eater_id,food_id.
 File_Path and Delimeter(,) is important for processing file.
