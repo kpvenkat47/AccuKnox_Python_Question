@@ -1,6 +1,6 @@
 import collections
 import os
-File_Name = 'sample.csv' #File_Name
+File_Name = 'sample.csv' #File_Name please use full path
 Delimeter = ',' #Delimeter
 File_is_There = os.path.exists(File_Name)
 if not File_is_There : # File is not there
